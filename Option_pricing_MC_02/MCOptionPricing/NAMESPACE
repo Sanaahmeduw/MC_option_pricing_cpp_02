@@ -1,0 +1,3 @@
+useDynLib(MCOptionPricing)
+export(price_option)
+import(Rcpp)
